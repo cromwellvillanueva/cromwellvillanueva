@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Cromwell Villanueva!
 
-<!--
-**cromwellvillanueva/cromwellvillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student / aspiring developer  
+💻 I’m currently learning web development  
+🚀 My goal is to build cool, helpful things using code  
 
-Here are some ideas to get you started:
+## 📚 Skills & Tools
+- HTML, CSS, JavaScript, Python
+- React (starting to learn!)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- 📧 Email: cromcromcromcrom06@gmail.com
+- 🔗 ORCID: https://orcid.org/0009-0009-8128-8547
