@@ -25,7 +25,7 @@ Currently, I am focusing on **web development foundations** while exploring **em
 
 - **Languages:** HTML, CSS, Python
 - **Currently Learning:** JavaScript, Git & GitHub, React
-- **Tools:** VS Code, Figma (basic), Canva
+- **Tools:** VS Code, Figma (basic)
 - **Interests:** Embedded Systems, IoT, Automation Scripting
 
 ---
