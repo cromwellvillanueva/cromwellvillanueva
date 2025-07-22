@@ -1,29 +1,39 @@
-# 👋 Hi there, I'm Cromwell Villanueva!  
-**he/him | Aspiring Web Developer | Learner for life**
+# 👋 Hi, I'm Cromwell Villanueva!
 
-I'm currently learning web development and exploring how I can build helpful and creative projects using technology.
-
----
-
-## 🚀 My Goal
-To build useful, accessible, and beautiful web applications while constantly improving my coding skills.
+**he/him | BS Computer Engineering @ PUP Biñan | Aspiring Web Developer**
 
 ---
 
-## 🧰 Skills & Tools
-- 🖥️ HTML, CSS, Python
-- ⚛️ Javascipt (starting to learn)
-- 🧑‍💻 Git & GitHub
+## 👤 About Me
+
+🎓 BS CpE student passionate about **web development, electronics, and building useful projects**.  
+✨ I value **clean design, learning deeply, and slow but steady growth**.  
+🇵🇭 Based in **Cavite, Philippines**.
+
+---
+
+## 🚀 Goal
+
+To **build accessible, aesthetic, and functional web applications** while improving my coding skills.
+
+---
+
+## 🧰 Skills
+
+- HTML, CSS, Python
+- Learning: JavaScript, Git & GitHub
+- Tools: VS Code, Figma (basic)
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 *Email*: [cromcromcromcrom06@gmail.com](mailto:cromcromcromcrom06@gmail.com)  
-- 🔗 *ORCID*: [0009-0009-8128-8547](https://orcid.org/0009-0009-8128-8547)  
-- 📘 *Facebook*: [cromcrom.0](https://facebook.com/cromcrom.0)  
-- 📸 *Instagram*: [@shy_crm](https://instagram.com/shy_crm)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cromwell-villanueva-672516376)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cromcromcromcrom06@gmail.com)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8128-8547)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cromcrom.0)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shy_crm)
 
 ---
 
-📅 This profile is a work in progress — stay tuned for projects and more updates!
+📅 *This profile is a work in progress. Stay tuned for projects!*
