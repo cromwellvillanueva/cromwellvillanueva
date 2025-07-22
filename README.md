@@ -50,16 +50,6 @@ Currently, I am focusing on **web development foundations** while exploring **em
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cromcromcrom&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromcromcrom&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
-
 > *“Learning consistently, building purposefully.”*
 
 ---
