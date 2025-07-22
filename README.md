@@ -59,13 +59,6 @@ Currently, I am focusing on **web development foundations** while exploring **em
 
 ---
 
-## ⚡ Fun Facts
-
-- I love **learning through building** small projects and refining them for clean execution.
-- Music, especially **brokecore and Sonny**, keeps me focused while coding.
-- I enjoy **perfecting small details and symmetry** in my work.
-
----
 
 > *“Learning consistently, building purposefully.”*
 
